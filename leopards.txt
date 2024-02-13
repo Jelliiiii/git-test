@@ -1,7 +1,4 @@
 <<<<<<< HEAD
-
-coach : MainOscar
-
 members:
 - Linda
 - William
