@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 members:
 - Linda
 - William
 - David
 - Olivia
+=======
+coach : Oscar
+>>>>>>> add-coach
