@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 
-coach : MainOscar
+coach : Lupi
 
 manager : Dooli
 
