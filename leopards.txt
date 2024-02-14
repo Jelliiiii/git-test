@@ -2,6 +2,8 @@
 
 coach : MainOscar
 
+manager : Dooli
+
 members:
 - Linda
 - William
